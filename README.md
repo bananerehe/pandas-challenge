@@ -90,7 +90,6 @@ As final considerations:
 * You must use the Pandas Library and the Jupyter Notebook.
 * You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
 * You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
 
 ## Hints and Considerations
 
@@ -103,8 +102,6 @@ As final considerations:
 * Expect these exercises to take time! Don't get discouraged if you find yourself spending  hours initially with little progress. Force yourself to deal with the discomfort of not knowing and forge ahead. Consider these hours an investment in your future!
 
 * As always, feel encouraged to work in groups and get help from your TAs and Instructor. Just remember, true success comes from mastery and _not_ a completed homework assignment. So challenge yourself to truly succeed!
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 ### Copyright
 
